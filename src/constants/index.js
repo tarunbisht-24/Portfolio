@@ -31,6 +31,7 @@ import {
     tailwindcss,
     typescript,
     visual,
+    vercel,
     weather,
     voting
 } from "../assets/icons";
@@ -86,21 +87,21 @@ export const skills = [
         name: "React",
         type: "Frontend",
     },
-    {
-        imageUrl: nextjs,
-        name: "Next.js",
-        type: "Frontend",
-    },
-    {
-        imageUrl: typescript,
-        name: "TypeScript",
-        type: "Frontend",
-    },
-    {
-        imageUrl: mui,
-        name: "Material-UI",
-        type: "Frontend",
-    },
+    // {
+    //     imageUrl: nextjs,
+    //     name: "Next.js",
+    //     type: "Frontend",
+    // },
+    // {
+    //     imageUrl: typescript,
+    //     name: "TypeScript",
+    //     type: "Frontend",
+    // },
+    // {
+    //     imageUrl: mui,
+    //     name: "Material-UI",
+    //     type: "Frontend",
+    // },
     {
         imageUrl: nodejs,
         name: "Node.js",
@@ -111,16 +112,16 @@ export const skills = [
         name: "Express",
         type: "Backend",
     },
-    {
-        imageUrl: php,
-        name: "PHP",
-        type: "Backend",
-    },
-    {
-        imageUrl: firebase,
-        name: "Firebase",
-        type: "Backend",
-    },
+    // {
+    //     imageUrl: php,
+    //     name: "PHP",
+    //     type: "Backend",
+    // },
+    // {
+    //     imageUrl: firebase,
+    //     name: "Firebase",
+    //     type: "Backend",
+    // },
     {
         imageUrl: mongodb,
         name: "MongoDB",
@@ -147,6 +148,11 @@ export const skills = [
         type: "Hosting Platform",
     },
     {
+        imageUrl: vercel,
+        name: "Vercel",
+        type: "Hosting Platform",
+    },
+    {
         imageUrl: google,
         name: "Google Cloud",
         type: "Cloud Service",
@@ -169,7 +175,7 @@ export const experiences = [
         company_name: "Spark Foundation",
         icon: spark,
         iconBg: "#a2d2ff",
-        date: "March 2023 - Aug 2023",
+        date: "Apr 2023 - Sep 2023",
         points: [
             "Led the development of a web application using MERN (MongoDB, Express.js, React, Node.js) stack, focusing on both frontend and backend functionality.",
             "Implemented RESTful APIs and database schemas using Node.js and MongoDB, ensuring efficient data management and seamless communication between client and server",
@@ -183,7 +189,7 @@ export const experiences = [
         company_name: "Let's Grow More",
         icon: letsgrow,
         iconBg: "#b7e4c7",
-        date: "Oct 2022 - Dec 2022",
+        date: "May 2022 - Aug 2022",
         points: [
             "Developed and implemented frontend features for two React-based projects, focusing on improving user interaction and overall user experience.",
             "Collaborated closely with backend developers to integrate RESTful APIs into React components, ensuring seamless data retrieval and display.",
