@@ -1,6 +1,6 @@
 import spark from './spark.png'
 import letsgrow from './letsgrow.jpeg'
-import logo from './logo.png'
+import logo from './logo.svg'
 
 export {
     spark,
