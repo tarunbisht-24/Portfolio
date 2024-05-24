@@ -9,7 +9,7 @@ const Footer = () => {
 
       <div className='footer-container'>
         <p>
-          © 2023 <strong>Tarun Bisht</strong>. All rights reserved.
+          © 2024 <strong>Tarun Bisht</strong>. All rights reserved.
         </p>
 
         <div className='flex gap-3 justify-center items-center'>
