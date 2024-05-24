@@ -21,6 +21,7 @@ import jquery from './jquery.svg'
 import linux from './linux.svg'
 import mysql from './mysql.svg'
 import netlify from './netlify.svg'
+import vercel from './vercel.svg'
 import php from './php.svg'
 import visual from './visual.svg'
 import linkedin from './linkedin.svg'
@@ -60,6 +61,7 @@ export {
     linux,
     mysql,
     netlify,
+    vercel,
     php,
     visual,
     linkedin,
